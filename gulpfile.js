@@ -23,13 +23,13 @@ gulp.task('bs-reload', function () {
 });
 
 gulp.task('images', function(){
-  gulp.src('assets/img/src/*')
+  gulp.src('assets/image/src/*')
       .pipe(imagemin({
         optimizationLevel: 3,
         progressive: true,
         interlaced: true
       }))
-      .pipe(gulp.dest('assets/img/dist/'));
+      .pipe(gulp.dest('assets/image/dist/'));
 });
 
 gulp.task('styles', function(){
