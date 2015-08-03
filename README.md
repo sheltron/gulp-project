@@ -4,10 +4,10 @@
 
 * **Includes (ideally)**
   - css
-   - compile from scss
-   - minify
-   - autoprefix (postcss*)
-   - lint
+    - compile from scss
+    - minify
+    - autoprefix (postcss*)
+    - lint
   - js
     - uglify
     - lint
