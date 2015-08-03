@@ -3,16 +3,16 @@
 ## Contents
 
 * **Includes (ideally)**
-  -css
-   -compile from scss
-   -minify
-   -autoprefix (postcss*)
-   -lint
-  -js
-    -uglify
-    -lint
-  -images
-    -responsive images
+	-css
+	 -compile from scss
+	 -minify
+	 -autoprefix (postcss*)
+	 -lint
+	-js
+		-uglify
+		-lint
+	-images
+		-responsive images
 
 
 
