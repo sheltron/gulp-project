@@ -1,5 +1,7 @@
 # Gulp-Project: A starter file for gulp based projects
 
+## Contents
+
 * **Includes (ideally)**
   -css
    -compile from scss
